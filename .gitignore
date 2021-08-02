@@ -1,0 +1,22 @@
+# OpenSubdiv
+osd-win64.zip
+*.exe
+*.pdb
+glfw*
+bin/
+tbb*
+tutorial1/.vs/
+tutorial1/x64/
+
+# FBX
+.vs
+x64
+importFBXScene/x64
+importFBXScene/Debug
+
+# user
+dump_fbx.bat
+*.user
+
+# data 
+data
